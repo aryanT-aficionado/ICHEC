@@ -6,32 +6,32 @@ int fact(int x);
 
 
 int main(){
-int order;
-double *terms;
-printf("order you wish to print\n");
+    int order;
+    double *terms;
+    printf("order you wish to print\n");
 
-scanf("%d",&order);
+    scanf("%d",&order);
 
 // printf("5! is %d \n", fact(5));
-terms=(double *)malloc(order * sizeof(double));
+    terms=(double *)malloc(order * sizeof(double));
 
-for (int i = 0; i < order; i++)
-{
-    terms[i]=1.0/(double)fact(i+1);
-}
+    for (int i = 0; i < order; i++)
+    {
+        terms[i]=1.0/(double)fact(i+1);
+    }
 
-double e=1.0;
-for (int i = 0; i < order; i++)
-{
-    e=e+terms[i];
+    double e=1.0;
+    for (int i = 0; i < order; i++)
+    {
+        e=e+terms[i];
 
-}
+    }
 
-free(terms);
+    free(terms);
 
-printf("e is estimated as .10%lf, with difference %e\n",e,e-exp(1.0));
+    printf("e is estimated as .10%lf, with difference %e\n",e,e-exp(1.0));
 
-return 0;
+    return 0;
 }
 
 int fact(int x){
