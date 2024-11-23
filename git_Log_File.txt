@@ -1,3 +1,13 @@
+
+GIT - https://github.com/aryanT-aficionado/ICHEC
+
+GIT STATUS-
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+GIT LOG
 commit 144ed61ed60b1d47e921049250fbd9fe12fef76a
 Author: Aryan Tiwari <aryanlucifer88@gmail.com>
 Date:   Fri Nov 22 19:30:08 2024 +0000
