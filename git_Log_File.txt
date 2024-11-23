@@ -1,0 +1,69 @@
+
+GIT - https://github.com/aryanT-aficionado/ICHEC
+
+GIT STATUS-
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+GIT LOG
+commit 144ed61ed60b1d47e921049250fbd9fe12fef76a
+Author: Aryan Tiwari <aryanlucifer88@gmail.com>
+Date:   Fri Nov 22 19:30:08 2024 +0000
+
+    Week 6 modified
+
+commit c296c57e08e03b21e30fed5607c10b30448e931d
+Author: Aryan Tiwari <aryanlucifer88@gmail.com>
+Date:   Fri Nov 22 19:15:37 2024 +0000
+
+    Week 9-10
+
+commit badac40c9adc4759250dff92a1e5822aa5063fe8
+Author: Aryan Tiwari <aryanlucifer88@gmail.com>
+Date:   Mon Nov 18 21:15:30 2024 +0000
+
+    Readme of week 8
+
+commit 621aa334f515c810333c76f3bf4f2c52f93a8344
+Author: Aryan Tiwari <aryanlucifer88@gmail.com>
+Date:   Mon Nov 18 21:11:20 2024 +0000
+
+    week 8
+
+commit 6ae304ca48dcbbe225485eafe7c15bfead6e7f89
+Author: Aryan Tiwari <aryanlucifer88@gmail.com>
+Date:   Sun Nov 10 17:33:59 2024 +0000
+
+    Week 7
+
+commit 5931cb94b573dc55e4878916979bb1337a70a2b9
+Author: Aryan Tiwari <aryanlucifer88@gmail.com>
+Date:   Tue Oct 22 11:08:04 2024 +0100
+
+    week 5 lab and practical
+
+commit 3d7fbea2fcef21771f3576bc823f8b5061456c69
+Author: Aryan Tiwari <aryanlucifer88@gmail.com>
+Date:   Tue Oct 8 10:55:55 2024 +0100
+
+    week 4 Prac
+
+commit c513d0ee8ec9616e81af0caf48f9c924e0edd64b
+Author: Aryan Tiwari <aryanlucifer88@gmail.com>
+Date:   Tue Oct 8 10:46:38 2024 +0100
+
+    week 4
+
+commit 6dda61cfdfa44df32596f3a6ff002f27a00b8182
+Author: Aryan Tiwari <aryanlucifer88@gmail.com>
+Date:   Sun Oct 6 18:21:48 2024 +0100
+
+    Added Readme File
+
+commit 77d32ba19d9848827d424e0f998d48c8d6b12f6c
+Author: Aryan Tiwari <aryanlucifer88@gmail.com>
+Date:   Sun Oct 6 18:13:53 2024 +0100
+
+    Week 3 Progress
